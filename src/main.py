@@ -1,6 +1,6 @@
 from random import randint
 
-import TokenFile
+import TokenFile #Here your Token
 import Lib
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
