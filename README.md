@@ -3,5 +3,6 @@
 
 Синтия - простой и открытый генератор рандомных ответов
 
-Бот обитает [тут](https://vk.com/cynthiavkbot) 
+Бот обитает [тут](https://vk.com/cynthiavkbot)
+
 Все вопросы [сюда](https://vk.com/aginsquash)
