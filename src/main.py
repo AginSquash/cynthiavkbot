@@ -20,6 +20,7 @@ def main():
             keyboard.add_button(Lib.KeyboardLib[randint(0, Lib.KeyboardCount)], color=VkKeyboardColor.POSITIVE)
             vk.messages.send(
                 user_id=event.user_id,
+                random_id=randint(0, 2147483647),
                 keyboard=keyboard.get_keyboard(),
                 message=getAnswer()
                 )
